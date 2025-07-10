@@ -26,3 +26,12 @@
    - Estilo
 - Sheet
    - Folha
+  
+
+# JS
+- Linguagem de programação
+- Browsers
+- Input -> Process -> Output
+- Variáveis
+- Function
+  - Agrupamento e reuso de código
