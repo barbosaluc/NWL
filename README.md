@@ -35,3 +35,8 @@
 - Variáveis
 - Function
   - Agrupamento e reuso de código
+
+  # DOM
+- Document
+- Object
+- Model
