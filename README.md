@@ -36,7 +36,12 @@
 - Function
   - Agrupamento e reuso de código
 
-  # DOM
+# DOM
 - Document
 - Object
 - Model
+
+# API 
+- Application
+- programming
+- Interface
