@@ -45,3 +45,23 @@
 - Application
 - programming
 - Interface
+
+# CDN
+- Content
+- Delivery
+- Network
+
+# LLM
+- Large
+- Language
+- Model
+
+# Agente AI
+- Tools(Ferramentas): Permite o uso do código,apps ou qualquer informações extras. 
+- Melhor contexto. 
+
+# Enegenharia de prompt    
+- One shot: Uma única pergunta sem muito contexto.
+- Few shot:É apresentado exemplos do que se espera.
+- Chain of Thought: Cadeia de pensamento para a IA responder gradativamente conforme
+a instrução.
