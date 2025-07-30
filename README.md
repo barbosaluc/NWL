@@ -65,3 +65,6 @@
 - Few shot:É apresentado exemplos do que se espera.
 - Chain of Thought: Cadeia de pensamento para a IA responder gradativamente conforme
 a instrução.
+
+# Acessar a página do projeto na web
+https://barbosaluc.github.io/NWL/
